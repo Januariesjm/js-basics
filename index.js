@@ -1,3 +1,3 @@
-//arrays
-let selectedColours = ['red','blue'];
-console.log(selectedColours.findIndex);
+//js functions
+document.getElementById('demo').innerHTML = 'Hello JavaScript';
+document.getElementById("demo").style.display = "none";
